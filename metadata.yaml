@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '39819'
     url: http://www.gutenberg.org/2009/agents/39819
     wikipedia: https://fi.wikipedia.org/wiki/Eino_Voionmaa
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kjellén, Rudolf
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58063
     wikipedia: https://en.wikipedia.org/wiki/Rudolf_Kjell%C3%A9n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75722#Suurvallat-2-b-Piirteita-nykyajan-suurpolitiikasta
 gutenberg_issued: '2025-03-26'
 gutenberg_type: Text
 identifiers:
